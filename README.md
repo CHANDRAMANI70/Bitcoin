@@ -1,5 +1,5 @@
 # NOTE
-- The file 'mempool.cvs' is updated by putting 'N' for the block that does not have a parent block.
+- The file 'mempool.cvs' is updated by putting 'N' at the end for the block that does not have a parent block.
 - The input is taken from 'input.txt' and not from 'mempool.cvs'
 - The source code is headed with 'main.cpp'.
 - The output of the block is available in the file 'block_output.txt'.
